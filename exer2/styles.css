@@ -1,0 +1,34 @@
+body {
+  background: #50B4D9;
+
+}
+
+p {
+  color: #000000;
+  width: 440px;
+  font-size: 15px;
+  font-family: "Monaco", monospace;
+}
+
+.profilePic {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 50px;
+  outline: 4px solid #1D6A86;
+}
+
+.backgroundBox {
+  width: 500px;
+  height: 150px;
+  background-color: #D97550;
+  padding: 15px;
+  outline: 4px solid #86391D;
+}
+
+.outlineBox {
+  outline: 5px dashed #000000;
+  width: 1200px;
+  height: 600px;
+}
